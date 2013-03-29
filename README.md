@@ -1,4 +1,4 @@
-# Inforbix standalone and widget version on angularjs
+# Template project using angularjs
 =====================================================
 
 We starter new implementation on [AngularJS][1]
@@ -14,7 +14,7 @@ As dependency and build system we use [RequiredJS][3]
 
 You can build production version using the command:
 
-	$ r.js -o build.js
+	$ grunt build
 
 After this will be created 'build' folder with all minified files. Also start script (boot.js) will contain all js and css at once.
 
@@ -26,5 +26,4 @@ Coming soon
 # Credits
 ---------
 
-* Alexey Kyznetsov, aleksey.kuznetsov@autodesk.com
-* Mikhail Eremin, mikhail.eremin@autodesk.com
+* Alexey Kyznetsov, lexin4ever@gmail.com
